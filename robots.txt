@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akifoltu-ui.github.io/sitemap.xml
